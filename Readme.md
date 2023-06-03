@@ -12,11 +12,11 @@ This is a clone project of iNeuron.ai landing page designed and created using HT
 
 ## **Screenshots**
 
-![Web Site Image](./screenshot/screenshot.png)
+![image](https://github.com/DeeptiDaisy/iNeuron_home_page/assets/109961309/5888a079-42d4-45c3-826a-1ac9a54d3566)
 
 <br>
 
-![Web Site Image](./screenshot/screenshot2.png)
+![image](https://github.com/DeeptiDaisy/iNeuron_home_page/assets/109961309/b6f3bd1f-19e1-4565-8254-debb75d02274)
 
 <br>
 
