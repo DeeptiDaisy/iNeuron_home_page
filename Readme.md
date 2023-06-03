@@ -21,6 +21,6 @@ This is a clone project of iNeuron.ai landing page designed and created using HT
 <br>
 
 ## **Deployed Link :**
-<a href="https://ineuron-clone-navneetkumar.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://ineuron-clone-navneekumar.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br>
